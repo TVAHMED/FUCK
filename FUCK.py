@@ -1,9 +1,4 @@
- #decode by : JUTTBRAND
-#coding=utf-8
-#created by AHMED
-#team name hbf
-#tottaly written by hamid Khawaja
-#!/usr/bin/python3
+
 #---------------------[IMPORT]---------------------#
 from bs4 import BeautifulSoup as sop
 from concurrent.futures import ThreadPoolExecutor as tred
